@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello Dears 👋
+
+***I hope everything goes well when you visit my github profile***
+
+- 🌱 I’m currently learning Ai Development
+- 📫 How to reach me: @mahdi860 **Telegram**
 
 <!--
 **MMahdiHosseini/MMahdiHosseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMahdiHosseini)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
