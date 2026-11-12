@@ -2,8 +2,11 @@
 
 ***I hope everything goes well when you visit my github profile***
 
+- ⚡ I’m an AI Engineer And Flutter Developer
+- 💬 I Build Great Apps With High Performance
 - 🌱 I’m currently learning Ai Development
 - 📫 How to reach me: @mahdi860 **Telegram**
+- 🔭 My Resume: [Mohammad Mahdi Hosseini](https://mmahdihosseini.ir)
 
 <!--
 **MMahdiHosseini/MMahdiHosseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMahdiHosseini)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMahdiHosseini)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MMahdiHosseini&custom_title=Mohammad%20Mahdi%20Hosseini%27s%20GitHub%20Status&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=MMahdiHosseini&custom_title=Mohammad%20Mahdi%20Hosseini%27s%20GitHub%20Status&show_icons=true&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MMahdiHosseini&langs_count=3&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=MMahdiHosseini&langs_count=3&hide_values=true&theme=transparent)
